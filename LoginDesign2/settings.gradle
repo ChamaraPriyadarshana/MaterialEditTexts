@@ -1,0 +1,2 @@
+rootProject.name = "LoginDesign2"
+include ':app'
